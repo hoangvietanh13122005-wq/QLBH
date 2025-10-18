@@ -90,6 +90,7 @@
             this.Controls.Add(this.lblhello);
             this.Name = "FRMhello";
             this.Text = "Chào hỏi";
+            this.Load += new System.EventHandler(this.FRMhello_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
