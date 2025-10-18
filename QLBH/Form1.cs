@@ -36,5 +36,10 @@ namespace QLBH
         {
             lblhello.Text = "Giao diện chào mừng";
         }
+
+        private void FRMhello_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

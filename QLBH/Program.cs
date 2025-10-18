@@ -16,7 +16,7 @@ namespace QLBH
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormTranBach());
+            Application.Run(new Frmkiemthu());
         }
     }
 }
